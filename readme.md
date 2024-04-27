@@ -1,12 +1,12 @@
 
-# Cancer Treatment Side Effects - A analysis of side effects related to cancer treatments
-A analysis of side effects related to cancer treatments
+# Cancer Treatment Side Effects - quantifying of side affects associated with major cancer treatment modalities
+quantifying of side affects associated with major cancer treatment modalities
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Cancer Treatment Side Effects** - an example for your projects
 
-A analysis of side effects related to cancer treatments
+quantifying of side affects associated with major cancer treatment modalities
 
 ![Image image_filename](sample.png)
 
