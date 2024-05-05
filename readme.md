@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Cancer Treatment Side Effects - quantifying of side affects associated with major cancer treatment modalities
 quantifying of side affects associated with major cancer treatment modalities
 
@@ -9,8 +11,6 @@ Welcome to the solution **Cancer Treatment Side Effects** - an example for your 
 quantifying of side affects associated with major cancer treatment modalities
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
