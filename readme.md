@@ -39,11 +39,8 @@ To get started with the **Cancer Treatment Side Effects** solution repository, f
  ![additional_image](cancer_treatment_side_effects.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
