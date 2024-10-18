@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Cancer Treatment Side Effects - quantifying of side affects associated with major cancer treatment modalities![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Cancer Treatment Side Effects 
+    ## quantifying of side affects associated with major cancer treatment modalities
+    ![Image image_filename](code.png)
 Welcome to the solution **Cancer Treatment Side Effects** - an example for your projects
 
 quantifying of side affects associated with major cancer treatment modalities
@@ -12,12 +15,15 @@ To get started with the **Cancer Treatment Side Effects** solution repository, f
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
